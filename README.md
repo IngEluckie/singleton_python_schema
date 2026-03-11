@@ -11,7 +11,7 @@ Implementación en Python de un **Singleton** para gestionar una conexión SQLit
 
 ## Uso rápido
 ```python
-from Automata.utilities.singleton import Database
+from singleton import Database
 
 # Base por defecto: systemDB.db
 db = Database()
